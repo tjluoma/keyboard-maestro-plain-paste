@@ -1,7 +1,7 @@
 keyboard-maestro-plain-paste
 ============================
 
-I have made some extremely elaborate Keyboard Maestro macros, but today I want to show you the one that I absolutely, positively use most often.
+Keyboard Maestro can be intimidating at first. I have made some extremely elaborate Keyboard Maestro macros, but today I want to show you the one that I absolutely, positively use most often.
 
 Ready?
 
@@ -25,6 +25,7 @@ That might not sound like much, but I use this keyboard shortcut several times p
 
 Keyboard Maestro will type the characters as fast as possible, which is almost always plenty fast enough for me. If you have the full text of your novel on the clipboard, then maybe you want to use ⌘ + V to paste, but otherwise, I almost always find myself using ⌥ + V instead.
 
+You can [download my Keyboard Maestro macro here](https://raw.github.com/tjluoma/keyboard-maestro-plain-paste/master/Type-Pasteboard.kmmacros), courtesy of Github. I have a bunch of other Keyboard Maestro macros available [on my Github account](https://github.com/tjluoma) as well.
 
 
 [^Nomenclature]: or pasteboard, whichever name you prefer. Keyboard Maestro calls it the 'clipboard' so that's what I tend to use when talking about Keyboard Maestro.
